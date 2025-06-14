@@ -1,0 +1,2 @@
+payment.service.message=Welcome to Payment Service! 
+payment.service.currency=INR

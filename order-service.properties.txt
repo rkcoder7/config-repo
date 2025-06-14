@@ -1,0 +1,2 @@
+order.service.message=Hello from centralized config! 
+order.service.version=1.0.0
